@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WBInternW7Part2</string>
+
+    <string name="intelligence">intelligence</string>
+    <string name="speed">speed</string>
+    <string name="power">power</string>
+    <string name="combat">combat</string>
+    <string name="durability">durability</string>
+    <string name="strength">strength</string>
+</resources>
